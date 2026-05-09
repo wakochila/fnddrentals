@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>F & DD RENTALS</title>
+
+    <!-- CSS LINK -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HEADER START -->
+
+<header class="header">
+
+    <div class="top-bar">
+        <div class="contact-info">
+            <span>📍 7 Anansa Road, AB Martins Estate</span>
+            <span>📞 08060752352</span>
+            <span>📞 08035734713</span>
+        </div>
+    </div>
+
+    <nav class="navbar">
+
+        <div class="logo">
+            <h1>F & DD RENTALS</h1>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Rentals</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+
+        <a href="https://wa.me/2348060752352" class="book-btn">
+            Book Now
+        </a>
+
+    </nav>
+
+</header>
+
+<!-- HEADER END -->
+
+
+<!-- HERO SECTION START -->
+<section class="hero fade-up">
+
+    <div class="hero-overlay">
+
+        <div class="hero-content">
+
+            <h2>Premium Chairs, Tables & Canopy Rentals</h2>
+
+            <p>
+                Making weddings, birthdays, burials, corporate events and outdoor celebrations elegant and unforgettable.
+            </p>
+
+            <div class="hero-buttons">
+                <a href="#" class="btn-primary">Book Now</a>
+                <a href="#" class="btn-secondary">View Gallery</a>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- HERO SECTION END -->
+
+
+<!-- SERVICES SECTION START -->
+<section class="services fade-up">
+
+    <div class="section-title">
+        <h2>Our Rental Services</h2>
+
+        <p>
+            We provide quality event equipment and professional setup services for all occasions.
+        </p>
+    </div>
+
+    <div class="services-container">
+
+        <!-- SERVICE 1 -->
+        <div class="service-box">
+
+            <img src="images/chairs.jpg" alt="Chairs Rental">
+
+            <h3>Chairs Rental</h3>
+
+            <p>
+                Durable and elegant chairs for weddings, birthdays, burials and corporate events.
+            </p>
+
+        </div>
+
+        <!-- SERVICE 2 -->
+        <div class="service-box">
+
+            <img src="images/tables.jpg" alt="Tables Rental">
+
+            <h3>Tables Rental</h3>
+
+            <p>
+                Quality round and rectangular tables suitable for indoor and outdoor events.
+            </p>
+
+        </div>
+
+        <!-- SERVICE 3 -->
+        <div class="service-box">
+
+            <img src="images/canopy.jpg" alt="Canopy Rental">
+
+            <h3>Canopy Rental</h3>
+
+            <p>
+                Strong and beautiful canopies that provide comfort and style for every occasion.
+            </p>
+
+        </div>
+
+        <!-- SERVICE 4 -->
+        <div class="service-box">
+
+            <img src="images/decor.jpg" alt="Event Decoration">
+
+            <h3>Event Decoration</h3>
+
+            <p>
+                Professional decoration setup to give your event a classy and unforgettable appearance.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- WHY CHOOSE US START -->
+<section class="why-choose-us fade-up">
+
+    <div class="section-title">
+        <h2>Why Choose Us</h2>
+        <p>
+            We make your event stress-free, beautiful, and unforgettable.
+        </p>
+    </div>
+
+    <div class="why-container">
+
+        <div class="why-box">
+            <h3>✔ Affordable Pricing</h3>
+            <p>We offer budget-friendly rental packages without compromising quality.</p>
+        </div>
+
+        <div class="why-box">
+            <h3>✔ Fast Delivery</h3>
+            <p>We deliver and set up your event items quickly and on time.</p>
+        </div>
+
+        <div class="why-box">
+            <h3>✔ Quality Equipment</h3>
+            <p>Our chairs, tables, and canopies are clean, strong, and elegant.</p>
+        </div>
+
+        <div class="why-box">
+            <h3>✔ Professional Setup</h3>
+            <p>We ensure your event looks well-organized and visually appealing.</p>
+        </div>
+
+    </div>
+
+</section>
+<!-- WHY CHOOSE US END -->
+
+<!-- GALLERY SECTION START -->
+<section class="gallery fade-up">
+
+    <div class="section-title">
+        <h2>Our Event Gallery</h2>
+        <p>Some of our recent event setups for weddings, birthdays, and outdoor ceremonies.</p>
+    </div>
+
+    <div class="gallery-container">
+
+        <div class="gallery-item">
+            <img src="images/gallery1.jpg" alt="Event Setup 1">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/gallery2.jpg" alt="Event Setup 2">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/gallery3.jpg" alt="Event Setup 3">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/gallery4.jpg" alt="Event Setup 4">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/gallery5.jpg" alt="Event Setup 5">
+        </div>
+
+        <div class="gallery-item">
+            <img src="images/gallery6.jpg" alt="Event Setup 6">
+        </div>
+
+    </div>
+
+</section>
+<!-- GALLERY SECTION END -->
+
+<!-- PRICING SECTION START -->
+<section class="pricing fade-up">
+
+    <div class="section-title">
+        <h2>Our Pricing Packages</h2>
+        <p>Affordable event rental packages for all types of occasions.</p>
+    </div>
+
+    <div class="pricing-container">
+
+        <!-- SILVER PACKAGE -->
+        <div class="price-box">
+            <h3>Silver Package</h3>
+            <p class="price">₦50,000</p>
+
+            <ul>
+                <li>✔ 50 Chairs</li>
+                <li>✔ 5 Tables</li>
+                <li>✔ Small Canopy</li>
+                <li>✔ Basic Setup</li>
+            </ul>
+
+            <a href="https://wa.me/2348060752352" class="price-btn">Book Now</a>
+        </div>
+
+        <!-- GOLD PACKAGE -->
+        <div class="price-box featured">
+            <h3>Gold Package</h3>
+            <p class="price">₦100,000</p>
+
+            <ul>
+                <li>✔ 100 Chairs</li>
+                <li>✔ 10 Tables</li>
+                <li>✔ Medium Canopy</li>
+                <li>✔ Full Setup</li>
+            </ul>
+
+            <a href="https://wa.me/2348060752352" class="price-btn">Book Now</a>
+        </div>
+
+        <!-- PREMIUM PACKAGE -->
+        <div class="price-box">
+            <h3>Premium Package</h3>
+            <p class="price">₦200,000+</p>
+
+            <ul>
+                <li>✔ Unlimited Chairs</li>
+                <li>✔ Large Canopy</li>
+                <li>✔ Decoration</li>
+                <li>✔ VIP Setup & Service</li>
+            </ul>
+
+            <a href="https://wa.me/2348060752352" class="price-btn">Book Now</a>
+        </div>
+
+    </div>
+
+</section>
+<!-- PRICING SECTION END -->
+
+<!-- CONTACT SECTION START -->
+<section class="contact fade-up">
+
+    <div class="section-title">
+        <h2>Contact Us</h2>
+        <p>We are always available to make your event planning easy and stress-free.</p>
+    </div>
+
+    <div class="contact-container">
+
+        <!-- CONTACT INFO -->
+        <div class="contact-info-box">
+
+            <h3>📍 Address</h3>
+            <p>7 Anansa Road, AB Martins Estate</p>
+
+            <h3>📞 Phone</h3>
+            <p>08060752352</p>
+            <p>08035734713</p>
+
+            <h3>✉ Email</h3>
+            <p>fddrentals@gmail.com</p>
+
+        </div>
+
+        <!-- CONTACT FORM -->
+        <div class="contact-form-box">
+
+            <form>
+
+                <input type="text" placeholder="Your Name" required>
+
+                <input type="email" placeholder="Your Email" required>
+
+                <input type="text" placeholder="Event Type (Wedding, Birthday etc)" required>
+
+                <textarea rows="5" placeholder="Your Message"></textarea>
+
+                <button type="submit">Send Message</button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- CONTACT SECTION END -->
+
+<!-- SERVICES SECTION END -->
+
+<!-- WHATSAPP FLOATING BUTTON -->
+<a href="https://wa.me/2348060752352" class="whatsapp-float" target="_blank">
+
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp">
+
+</a>
+
+<!-- FOOTER START -->
+<footer class="footer fade-up">
+
+    <div class="footer-container">
+
+        <div class="footer-box">
+            <h3>F & DD RENTALS</h3>
+            <p>
+                We provide quality chairs, tables, canopies, and full event setup services for all occasions.
+            </p>
+        </div>
+
+        <div class="footer-box">
+            <h3>Quick Links</h3>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-box">
+            <h3>Contact</h3>
+            <p>📍 7 Anansa Road, AB Martins Estate</p>
+            <p>📞 08060752352</p>
+            <p>📞 08035734713</p>
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+        <p>© 2026 F & DD RENTALS. All Rights Reserved.</p>
+    </div>
+
+</footer>
+<!-- FOOTER END -->
+</body>
+</html>
